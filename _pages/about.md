@@ -25,4 +25,4 @@ Previously, I obtained my B.S in Electrical Engineering from [UC San Diego](http
 
 I am looking for research internship opportunities for summer 2024!
 
-[E-mail](mailto:anfengxu@usc.edu) / [Resume](https://anfengxu136.github.io/cv/) / [Google Scholar](https://scholar.google.com/citations?user=H1IFH8EAAAAJ&hl=en) / [LinkedIn](https://www.linkedin.com/in/anfeng-xu-9a0a5a164/)
+[E-mail](mailto:anfengxu@usc.edu) / [Resume](https://anfengxu136.github.io/assets/pdf/resume.pdf) / [Google Scholar](https://scholar.google.com/citations?user=H1IFH8EAAAAJ&hl=en) / [LinkedIn](https://www.linkedin.com/in/anfeng-xu-9a0a5a164/)
