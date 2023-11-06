@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -24,3 +24,5 @@ Hello! I am a 3rd year Ph.D. student in Electrical and Computer Engineering at [
 Previously, I obtained my B.S in Electrical Engineering from [UC San Diego](https://jacobsschool.ucsd.edu/). I am originally from Nagoya city in Japan, and my Japanese name is 徐安峰 / Yasumine Jo.
 
 I am looking for research internship opportunities for summer 2024!
+
+[E-mail](mailto:anfengxu@usc.edu) / [Resume](https://anfengxu136.github.io/cv/) / [Google Scholar](https://scholar.google.com/citations?user=H1IFH8EAAAAJ&hl=en) / [LinkedIn](https://www.linkedin.com/in/anfeng-xu-9a0a5a164/)
