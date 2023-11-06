@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Anfeng Xu (Alex) # the website title (if blank, full name will be used instead)
 first_name: Anfeng
-middle_name: R.
+middle_name: 
 last_name: Xu
 email: anfengxu@usc.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
