@@ -23,5 +23,7 @@ Hello! I am a 3rd year Ph.D. student in Electrical and Computer Engineering at [
 
 Previously, I graduated Summa Cum Laude from [UC San Diego](https://jacobsschool.ucsd.edu/) with a B.S. in Electrical Engineering . I was born and raised at Nagoya city, Japan until [High School](https://en.wikipedia.org/wiki/Tokai_High_School), and my Japanese name is 徐安峰 / Yasumine Jo.
 
-I am looking for research internship opportunities for summer 2024!
+
+Update: 
+I will be interning at Meta for speech AI team for summer 2024 in Seattle! Feel free to reach out if you will be around there.
 
