@@ -25,4 +25,5 @@ Previously, I graduated Summa Cum Laude from [UC San Diego](https://jacobsschool
 
 
 Update: 
-[summer 2024] Finished an intern at Meta for speech AI team in Seattle! 
+[summer 2024] 
+Finished an intern at Meta for speech AI team in Seattle! 
