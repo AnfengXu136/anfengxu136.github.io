@@ -28,7 +28,7 @@ Previously, I graduated Summa Cum Laude from [UC San Diego](https://jacobsschool
 Updates: 
 
 [Summer 2026]
-Started an internship at Meta Superintelligence Labs, voice applied team in Seattle.
+Started an internship at Meta Superintelligence Labs, voice applied team in Menlo Park.
 
 [Summer 2025]
 Finished an internship at Meta Superintelligence Labs, voice modeling team in Seattle.
