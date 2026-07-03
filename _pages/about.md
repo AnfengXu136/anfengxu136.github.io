@@ -31,7 +31,7 @@ Updates:
 Started an internship at Meta Superintelligence Labs, voice applied team in Seattle.
 
 [Summer 2025]
-Finished an internship at Meta Superintelligence Labs, doice modeling team in Seattle.
+Finished an internship at Meta Superintelligence Labs, voice modeling team in Seattle.
 
 [Summer 2024] 
 Finished an internship at Meta Reality Labs, wearable speech AI team in Seattle.
